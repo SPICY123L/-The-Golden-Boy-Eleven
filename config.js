@@ -1,6 +1,6 @@
 
 module.exports = {
-  token: "MTUwNTI2MjMwMzI1NDQxMzQxMw.GwKKPP.nwWZxFWS4mP8666hjZcurU8cBhEaFBdCbkQ_s8",
+  token: "MTUwNTI2MjMwMzI1NDQxMzQxMw.Gz6r8c.3vUf8KnShQaIMYQRyWcPG0MIyIqvBi0JD8yEHI",
   prefix: "!",
   owner: "1433921293387825162"
 }; 
